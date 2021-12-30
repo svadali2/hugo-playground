@@ -5,7 +5,7 @@ draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
 
 header:
-  description: Hello, my name is Soumitri! I live and work in Singapore. I'm keen on <span class="accent-text">photography</span>.
+  description: Hello, my name is Soumitri! I live and work in Singapore. The year is 2021, and it will soon be 2022.
   image:
     url: home-hero.png
     alt: The top of mountain image
